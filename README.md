@@ -1,2 +1,2 @@
 # robotron-2000 
-PRIMEIRO COMMIT TENTATIVA
+é uma parada legal, feito em JAVASCRIPT que contribuiu bastante para o meu processo de aprendizagem.. 
